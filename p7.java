@@ -10,4 +10,5 @@ public class p7 {
             System.out.println();
         }
     }
+
 }
